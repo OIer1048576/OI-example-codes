@@ -1,3 +1,7 @@
+/**
+ * Original Problem: https://atcoder.jp/contests/abc304/tasks/abc304_h
+ */
+
 #include <bits/stdc++.h>
 using namespace std;
 
