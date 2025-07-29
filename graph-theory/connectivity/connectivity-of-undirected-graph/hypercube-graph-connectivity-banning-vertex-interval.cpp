@@ -1,3 +1,7 @@
+/**
+ * Original Problem: https://luogu.com.cn/problem/CF1556G
+ */
+
 #include <bits/stdc++.h>
 using namespace std;
 
